@@ -13,11 +13,11 @@ Wowhead Guide - <https://www.wowhead.com/fury-warrior-guide>
 Single-target: 1st Unbridled Ferocity, 1st Simmering Rage, Reckless Flurry, Cold Steel Hot Blood
 AoE: 1st Unbridled Ferocity, 1st Simmering Rage, Cold Steel Hot Blood
 Mythic+: 1st Unbridled Ferocity, 1st Simmering Rage, Cold Steel Hot Blood, Gathering Storm with Bladestorm talented
-In Uldir make sure you have 1 trait that activates Reorigination Array (either Archive of the Titans or Laser Matrix).
+Tier 2s: Overwhelming Power, Gutripper, Heed My Call
 A more complete list here - <https://bloodmallet.com/index.html#warrior_fury?data_view=azerite_traits&type=itemlevel&tier=3>
 
 **Q:** With Reckless Flurry, do I delay Recklessness for Siegebreaker?
-**A:** Holding Recklessness is the marginally better choice in most situations. Not holding Recklessness is only strictly better with very specific kill timings.
+**A:** Holding Recklessness is the marginally better choice in most situations.
 
 **Q:** What enchants do I use? 
-**A:** Quick and Masterful Navigation, doesn't matter in which hand as long as you have one of each.
+**A:** Quick and Masterful Navigation, however if you have Cold Steel Hot Blood then you might sim higher with Deadly Navigation. This can lead to either Quick+Deadly or Deadly+Masterful (Mainhand vs Offhand makes no difference). Sim yourself to be sure.
